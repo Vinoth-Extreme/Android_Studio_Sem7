@@ -1,0 +1,18 @@
+1. Install Eclipse
+2. Install SDK
+3. Install JDK
+
+4. 4 states of each activity.
+	1. Does Not Exist
+	2. Foreground
+	3. Background
+	4. Paused
+
+5. 7 lifecycle methods are available.
+	1. onStart()
+	2. onResume()
+	3. onStop()
+	4. onPause()
+	5. 
+	6.
+	7. onDestroy()
