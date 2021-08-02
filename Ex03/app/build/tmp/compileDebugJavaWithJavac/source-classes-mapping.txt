@@ -1,0 +1,4 @@
+com/example/ex03/BuildConfig.java
+ com.example.ex03.BuildConfig
+com/example/ex03/MainActivity.java
+ com.example.ex03.MainActivity
