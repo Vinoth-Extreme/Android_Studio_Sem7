@@ -8,12 +8,12 @@
         "source": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
@@ -22,6 +22,10 @@
     {
         "merged": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\build\\intermediates\\res\\merged\\debug\\layout_second_layout.xml.flat",
+        "source": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\src\\main\\res\\layout\\second_layout.xml"
     },
     {
         "merged": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
@@ -54,10 +58,6 @@
     {
         "merged": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\build\\intermediates\\res\\merged\\debug\\layout_second_activity.xml.flat",
-        "source": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\src\\main\\res\\layout\\second_activity.xml"
     },
     {
         "merged": "E:\\Education\\Sem7\\MobileApplicationDevelopment-Lab\\Ex04\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",

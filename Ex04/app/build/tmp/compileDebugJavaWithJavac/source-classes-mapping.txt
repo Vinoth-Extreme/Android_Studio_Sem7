@@ -1,6 +1,6 @@
-com/example/ex04/BuildConfig.java
- com.example.ex04.BuildConfig
 com/example/ex04/MainActivity.java
  com.example.ex04.MainActivity
+com/example/ex04/BuildConfig.java
+ com.example.ex04.BuildConfig
 com/example/ex04/SecondActivity.java
  com.example.ex04.SecondActivity
