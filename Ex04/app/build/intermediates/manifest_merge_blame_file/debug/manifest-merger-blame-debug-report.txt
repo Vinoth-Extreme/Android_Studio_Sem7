@@ -11,7 +11,7 @@
 9-->E:\Education\Sem7\MobileApplicationDevelopment-Lab\Ex04\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->E:\Education\Sem7\MobileApplicationDevelopment-Lab\Ex04\app\src\main\AndroidManifest.xml:5:5-21:19
+11-->E:\Education\Sem7\MobileApplicationDevelopment-Lab\Ex04\app\src\main\AndroidManifest.xml:5:5-22:19
 12        android:allowBackup="true"
 12-->E:\Education\Sem7\MobileApplicationDevelopment-Lab\Ex04\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
